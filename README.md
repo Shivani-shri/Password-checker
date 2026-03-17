@@ -61,5 +61,5 @@ password-security-analyzer/
 For educational and authorized security testing only. Never test passwords you don't own.
 👤 Author
 Sivani Sri.N 
-Btech cyber forensicsandinformationsecurity| Penetration Testing & Security
+Btech cyber forensics and information security| Penetration Testing & Security|
 LinkedIn: https://www.linkedin.com/in/sivani-sri-n-b135bb303?utm_source=share_via&utm_content=profile&utm_medium=member_android
